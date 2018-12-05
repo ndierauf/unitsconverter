@@ -1,0 +1,47 @@
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Log Files
+*.log
+*.log.*
+*.out
+
+# Binaries
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+*.war
+*.ear
+*.sar
+*.class
+
+# eclipse project file
+#.settings/*
+.settings/
+#.settings
+.classpath
+.project
+org.eclipse.*
+.factorypath
+
+.springBeans
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+/target
+
+# Misc
+*.swp
+release.properties
+#pom.xml.releaseBackup
+#pom.xml.tag
+pom.xml.*
+jssecacerts
+./temp/
